@@ -6,7 +6,6 @@
 - [Results](#Results)
   * [June Results](#JunRes)
   * [December Results](#DecRes)
-  * [Employees Eligible for Mentorship Program](#mentp)
 - [Summary](#Summary)
 - [Resources](#Resources)
 
