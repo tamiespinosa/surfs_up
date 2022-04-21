@@ -11,6 +11,7 @@
 
 ## <a name="OverviewProject"></a>Overview of Project
 
+The purpose of this project is to analyze the weather in the island of Oahu Hawaii to see if a shop called 'Surf n Shake' would be successful. This place would sell icecream and rent surfboards. For this purpose we will analyze the weather data collected by 9 different stations and stored in a SQLite data base [[1]](#1)
 
 ### <a name="purpose"></a>Purpose
 
