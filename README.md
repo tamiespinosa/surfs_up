@@ -6,6 +6,7 @@
 - [Results](#Results)
   * [June Results](#JunRes)
   * [December Results](#DecRes)
+  * [Results Analysis](#AnRes)
 - [Summary](#Summary)
 - [Resources](#Resources)
 
@@ -29,9 +30,11 @@ The pupose of this analysis is to collect the weather data for the months of Jun
 <p align="center"> <img src="dec_temps.png" width ="20%" alt="dec_temps"> </p>
 <p align="center"> Figure 2: December Summary Temperature Statistics</p>  
 
+### <a name="AnRes"></a> Results Analysis
+
 ## <a name="Summary"></a> Summary
 
-   
+The temperature variation for the summer months and winter months is not drastic. Icecream sales would not be significantly impacted by temperature alone. Yet, the SQLite Data Base [[1]](#1) does contain precipitation data, and it also captures the stations that are collecting the data. Although we are collecting the information of some of the most extreme weather months, one from winter and one from summer, a more detailed analysis would include all of the months of the year. Additionally, precipitation should be looked into, as rainy weather would impact icecream sales. Finally, we could verify the data coming from each station to confirm the validity of the instrumentation used and check that there aren't any stations capturing erroneous data. 
 
 ## <a name="Resources"></a>Resources
 
