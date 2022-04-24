@@ -11,12 +11,11 @@
 
 ## <a name="OverviewProject"></a>Overview of Project
 
-The purpose of this project is to analyze the weather in the island of Oahu Hawaii to see if a shop called 'Surf n Shake' would be successful. This place would sell icecream and rent surfboards. For this purpose we will analyze the weather data collected by 9 different stations and stored in a SQLite data base [[1]](#1)
+This project analyzes the weather in the island of Oahu Hawaii to see if a shop called 'Surf n Shake' would be successful. The shop place would sell icecream and rent surfboards. We will analyze the weather data collected by 9 different stations and stored in a SQLite data base [[1]](#1). We analyzed the data using Python's SQLAlchemy Library [[2]](#2).
 
 ### <a name="purpose"></a>Purpose
 
-
-We answered these questions using Python SQLAlchemy Library [[2]](#2).
+The pupose of this analysis is to collect the weather data for the months of June and December for a period of seven years. We will use there two months as samples of the behavior for the summer and winter months. We will then summarize the results by collecting some basic statistical data for those months. 
 
 ## <a name="Results"></a>Results
 
