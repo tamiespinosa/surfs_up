@@ -32,6 +32,14 @@ The pupose of this analysis is to collect the weather data for the months of Jun
 
 ### <a name="AnRes"></a> Results Analysis
 
+ * The mean value varies about 4 degrees between June and December.
+ * The minimum temperature varies 8 degrees between June and December.
+ * The maximum temperature varies 2 degrees between June and December.
+ * The IQR for June is 4 degrees, while the IQR for December is 5 degrees. 
+ * Generally the temperature variation between June and December does not seem to be extreme. December tends to have slightly colder weather. 
+ * There's 283 less data points for December compared to June. 
+ * The data for both months spans 7 years. 
+
 ## <a name="Summary"></a> Summary
 
 The temperature variation for the summer months and winter months is not drastic. Icecream sales would not be significantly impacted by temperature alone. Yet, the SQLite Data Base [[1]](#1) does contain precipitation data, and it also captures the stations that are collecting the data. Although we are collecting the information of some of the most extreme weather months, one from winter and one from summer, a more detailed analysis would include all of the months of the year. Additionally, precipitation should be looked into, as rainy weather would impact icecream sales. Finally, we could verify the data coming from each station to confirm the validity of the instrumentation used and check that there aren't any stations capturing erroneous data. 
