@@ -21,10 +21,13 @@ The pupose of this analysis is to collect the weather data for the months of Jun
 
 ### <a name="JunRes"></a>June Results
 
+<p align="center"> <img src="june_temps.png" width ="50%" alt="june_temps"> </p>
+<p align="center"> Figure 1: June Summary Temperature Statistics</p> 
 
 ### <a name="DecRes"></a>December Results
 
- 
+<p align="center"> <img src="dec_temps.png" width ="50%" alt="dec_temps"> </p>
+<p align="center"> Figure 2: December Summary Temperature Statistics</p>  
 
 ## <a name="Summary"></a> Summary
 
